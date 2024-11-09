@@ -1,7 +1,7 @@
 # Hi there, I'm Exril 👋
 
 ## 🚀 About Me
-- 💼 Full Stack Developer with over 3 years of experience
+- 💼 Back-End Developer with over 3 years of experience
 - 🌱 Currently learning rust & advanced TypeScript and diving into Next.js
 
 ## 🛠️ Tech Stack
