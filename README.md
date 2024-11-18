@@ -56,12 +56,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## 📫 How to Reach Me
-- **Discord**: @githubpages
-- **Email**: mail@exril.xyz
-- **GitHub**: [exril](https://github.com/exril)
-
-
   <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sfn2fmswxpz566tkux6niqnjai">
   </div>
