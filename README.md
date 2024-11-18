@@ -62,37 +62,13 @@
 - **GitHub**: [exril](https://github.com/exril)
 
 
-
-  <div align="center"> 
-    <a href="https://github.com/exrod#gh-dark-mode-only">
-      <img
-        src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=exrod&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only"
-        alt="My Language stats"
-        height="370"
-      />
-    </a>
-  </div>
-  
-  <!-- Streal stats (Light mode) -->
   <div align="center">
-    <a href="https://github.com/exrod#gh-light-mode-only">
-      <img
-         src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=exrod&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000"
-         alt="My GitHub streak stats"
-       />
-    </a>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sfn2fmswxpz566tkux6niqnjai">
   </div>
-  
-  
-  
-  <!-- Streal stats (Dark mode) -->
+  <hr>
   <div align="center">
-    <a href="https://github.com/exrod#gh-dark-mode-only">
-      <img
-         src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=exrod&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true"
-         alt="My GitHub streak stats"
-       />
-    </a>
+      <a href="https://www.codedex.io/@uwu"><img src="https://avatars.githubusercontent.com/u/105237839?s=200&v=4" width="50"></a>
+  <a href="https://www.instagram.com/dev_exril"><img src="https://img.freepik.com/vrije-vector/instagramachtergrond-in-gradientkleuren_23-2147823814.jpg" width="50"></a>
+  <a href="https://www.linkedin.com/in/exril/"><img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/rdp6fcqdcvqqcqn3jz72" width="50"></a>
+  <a href="https://twitter.com/devexril"><img src="https://img.freepik.com/vrije-vector/nieuw-2023-twitter-logo-x-pictogramontwerp_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1707696000&semt=ais" width="50"></a>
   </div>
-  <br />
-  <br />
