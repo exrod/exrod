@@ -5,7 +5,7 @@
 - 🌱 Currently learning rust & advanced TypeScript and diving into Next.js
 
 ## ⚡ Currently Contributing To
-- Groot, Galaxies, Smooth, Ghost Pay, Cemetery Studios
+- [Groot](https://grootbot.com/), [Galaxies](https://galaxies.root.sx), [Smooth](https://smoothbot.me), [Ghost Pay](https://ghostpay.org), [Cemetery Studios](https://discord.gg/ghouls)
 
 ## 🛠️ Tech Stack
 
