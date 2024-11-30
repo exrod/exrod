@@ -4,6 +4,9 @@
 - 💼 Back-End Developer with over 3 years of experience
 - 🌱 Currently learning rust & advanced TypeScript and diving into Next.js
 
+## ⚡ Currently Contributing To
+- Groot, Galaxies, Smooth, Ghost Pay, Cemetery Studios
+
 ## 🛠️ Tech Stack
 
 ### Languages
