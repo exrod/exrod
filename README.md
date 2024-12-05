@@ -59,13 +59,4 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-  <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sfn2fmswxpz566tkux6niqnjai">
-  </div>
-  <hr>
-  <div align="center">
-      <a href="https://www.codedex.io/@uwu"><img src="https://avatars.githubusercontent.com/u/105237839?s=200&v=4" width="50"></a>
-  <a href="https://www.instagram.com/dev_exril"><img src="https://img.freepik.com/vrije-vector/instagramachtergrond-in-gradientkleuren_23-2147823814.jpg" width="50"></a>
-  <a href="https://www.linkedin.com/in/exril/"><img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/rdp6fcqdcvqqcqn3jz72" width="50"></a>
-  <a href="https://twitter.com/devexril"><img src="https://img.freepik.com/vrije-vector/nieuw-2023-twitter-logo-x-pictogramontwerp_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1707696000&semt=ais" width="50"></a>
-  </div>
+![exrod's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=exrod&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
