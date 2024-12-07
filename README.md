@@ -59,4 +59,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+![exrod's Stats](https://github-readme-stats.vercel.app/api?username=exrod&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![exrod's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=exrod&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![exrod's Streak](https://github-readme-streak-stats.herokuapp.com/?user=exrod&theme=vue-dark&hide_border=true)
