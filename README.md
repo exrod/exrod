@@ -25,6 +25,11 @@
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=postman&logoColor=white)
 ![net/http](https://img.shields.io/badge/net%2Fhttp-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Gin Gonic](https://img.shields.io/badge/Gin_Gonic-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![OnceUI](https://img.shields.io/badge/OnceUI-7A5CFA?style=for-the-badge&logo=css3&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-FF5722?style=for-the-badge&logo=python&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![Axum](https://img.shields.io/badge/Axum-7C3AED?style=for-the-badge&logo=rust&logoColor=white)
 ![Tokio](https://img.shields.io/badge/Tokio-333333?style=for-the-badge&logo=rust&logoColor=white)
 
